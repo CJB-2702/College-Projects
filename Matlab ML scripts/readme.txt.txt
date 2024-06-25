@@ -1,0 +1,1 @@
+all projects use the minst training dataset

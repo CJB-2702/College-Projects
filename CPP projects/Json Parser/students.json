@@ -1,0 +1,14 @@
+{
+  "course": "ECE141a",
+  "assignment"  : 3,
+  "due_date"    : "Feb. 20, 2021, 11:30p",
+  "total_effort_hours" : 0,
+  "students": [
+    {
+      "name " : "Christian Bissett",
+      "pid"   : "A15345034",
+      "email" : "cbissett@ucsd.edu",
+      "os"    : "windows"
+    }
+  ]
+}

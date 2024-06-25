@@ -1,0 +1,20 @@
+{
+  "course": "ECE141b",
+  "assignment"         : 6,
+  "due_date"           : "May 11, 2021, 11:30p",
+  "total_effort_hours" : 20,
+  "students": [
+    {
+      "name " : "Ming Liu",
+      "pid"   : "A15579644",
+      "email" : "mil012@ucsd.edu",
+      "os"    : "windows"
+    },
+    {
+      "name ": "Christian Bissett",
+      "pid": "A15345034",
+      "email": "cbissett@ucsd.edu",
+      "os": "windows"
+    }
+  ]
+}

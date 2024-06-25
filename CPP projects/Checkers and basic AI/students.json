@@ -1,0 +1,21 @@
+{
+  "course": "ECE141a",
+  "term"  : "WI21",
+  "assignment"         : 5,
+  "due_date"           : "Mar. 14, 2021, 11:15p",
+  "total_effort_hours" : 0,
+  "students": [
+    {
+      "name " : "Christian Bissett",
+      "pid"   : "A15345034",
+      "email" : "cbissett@ucsd.edu",
+      "os"    : "windows"
+    },
+    {
+      "name " : "Partner Name (if any)",
+      "pid"   : "Partner StudentId (if any)",
+      "email" : "Partner Email (if any)",
+      "os"    : "windows|mac|linux"
+    }
+  ]
+}

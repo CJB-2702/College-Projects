@@ -1,0 +1,57 @@
+{
+	"meta" : {
+		"class" : "TestDocument",
+		"version" : 1.0
+		},
+	"members" : {
+		"price" : 35.99,
+		"child1a" : {
+	"meta" : {
+		"class" : "TestClass1",
+		"version" : 1.0
+		},
+	"members" : {
+		"name" : "oneA",
+		"count" : 1234,
+		"amount" : 3.14,
+		"used" : false
+	}
+},
+"child1b" : {
+	"meta" : {
+		"class" : "TestClass1",
+		"version" : 1.0
+		},
+	"members" : {
+		"name" : "oneB",
+		"count" : 567,
+		"amount" : 6.28,
+		"used" : true
+	}
+},
+"child2" : {
+	"meta" : {
+		"class" : "TestClass2",
+		"version" : 1.0
+		},
+	"members" : {
+		"name" : "two",
+		"size" : 99,
+		"Metadata" : {
+			"prop1": "A",
+			"prop2": "*",
+			"prop3": true
+		}	}},
+"child3" : {
+	"meta" : {
+		"class" : "TestClass3",
+		"version" : 1.0
+		},
+	"members" : {
+		"name" : "three",
+		"initials" : "RKG",
+		"color" : "red"
+	}
+}
+	}
+}
